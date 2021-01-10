@@ -1,0 +1,13 @@
+{
+  "name": "kit.yandexmappoint",
+  "version": "0.1.16",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}

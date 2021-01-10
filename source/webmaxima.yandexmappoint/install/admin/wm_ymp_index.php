@@ -1,0 +1,1 @@
+<?include $_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/webmaxima.yandexmappoint/admin/wm_ymp_index.php'?>

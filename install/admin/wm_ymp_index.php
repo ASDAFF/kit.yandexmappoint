@@ -1,0 +1,1 @@
+<?include $_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/kit.yandexmappoint/admin/wm_ymp_index.php'?>
